@@ -1,0 +1,13 @@
+
+?	Java基础扎实，理解并能使用Java 多线程及集合，IO流等，具有良好的编程习惯
+?	熟悉常用的Java设计模式（如单例、工厂、代理等设计模式）          	
+?	熟悉HTML、Ajax、JQuery、Json、EasyUI等WEB前端技术
+?	熟练运用SQL语句,了解sql优化,利用mycat+mysql实现读写分离提升项目并发能力
+?	熟悉Spring、SpringMVC、MyBatis、SpringBoot等主流框架，能够快速上手新型框架
+?	熟练掌握Spring的IOC、DI、AOP设计思想
+?	熟悉使用nginx+tomcat集群实现负载均衡
+?	熟悉Redis分布式内存数据库实现各层缓存
+?	熟练使用tomcat服务器、SVN版本管理工具、Maven项目构建工具
+?	熟练运用JUnit、Debug进行程序调试,log4j进行日志管理
+?	熟悉Linux系统命令及Xshell工具的使用
+?	了解java反射机制 
